@@ -8,3 +8,6 @@ ftfy
 wget
 tabulate
 tables
+h5py
+opencv-python
+protobuf=3.20
